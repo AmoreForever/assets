@@ -13,7 +13,7 @@
 #                           🔒 Licensed under the GNU GPLv3
 #                    🌐 https://www.gnu.org/licenses/agpl-3.0.html
 #                            https://t.me/amorescam
-
+# test notif
 
 # scope: hikka_only
 # scope: hikka_min 1.3.3
